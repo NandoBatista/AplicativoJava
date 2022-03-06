@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicativoJava</string>
+    <string name="hint">Intervalo (min)</string>
+    <string name="notify">NOTIFICAR</string>
+    <string name="erro_msg">Digite o intervalo</string>
+    <string name="pause">Pausar</string>
+</resources>
